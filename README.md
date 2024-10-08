@@ -35,25 +35,19 @@ Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
 
 3. Extraia os arquivos para uma pasta de sua preferência.
 
-4. Navegue até a pasta em questão via terminal (cmd):
-
-```bash
-cd repo-meteora
-```
-
-5. Instale as dependências usando o npm:
+4. Instale as dependências usando o npm:
 
 ```bash
 npm install
 ```
 
-6. Inicie o projeto localmente:
+5. Inicie o projeto localmente:
 
 ```bash
 npm run dev
 ```
 
-7. Abra seu navegador e acesse a url exibida no seu terminal para visualizar o projeto.
+6. Abra seu navegador e acesse a url exibida no seu terminal para visualizar o projeto.
 
 ## 📚 Mais informações do projeto
 
